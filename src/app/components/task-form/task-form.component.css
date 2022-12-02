@@ -1,0 +1,32 @@
+form{
+  width: 100%;
+  padding: 0px 1rem;
+}
+.form_control.reminder{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.form_control.reminder label{
+  width: 10rem;
+}
+label{
+display: block;
+color: brown;
+font-weight: bold;
+font-size: 1.2rem;
+}
+input{
+  width: 93%;
+  box-sizing: border-box;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+}
+.submit_btn{
+  width: 93%;
+  background-color: #000;
+  color: #fff;
+  text-transform: capitalize;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+}
