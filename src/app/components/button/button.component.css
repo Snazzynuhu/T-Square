@@ -1,4 +1,7 @@
 button{
   padding: 0.5rem 1rem;
   border: none;
+  background-color: green;
+  color: #fff;
+  border-radius: 0.5rem;
 }
